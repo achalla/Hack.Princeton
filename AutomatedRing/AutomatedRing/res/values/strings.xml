@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YouBetterWorkBitch</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button1_text">&quot;Push Me, Bitch!&quot;</string>
+    <string name="location">&quot;Location&quot;</string>
+    <string name="time">&quot;Time&quot;</string>
+    <string name="checkBox1">&quot;Turn this bitch on?&quot;</string>
+    <string name="vibrate">&quot;Vibrate&quot;</string>
+    <string name="silence">&quot;Silence&quot;</string>
+    <string name="volume_on">&quot;Volume on&quot;</string>
+    <string name="set_high">&quot;Active Ringtone Settings&quot;</string>
+    <string name="set_low">&quot;Low Ringtone Settings&quot;</string>
+    <string name="next_screen">&quot;Next&quot;</string>
+    <string name="criteria_title">&quot;Criteria&quot;</string>
+    <string name="loc_button">Add Location</string>
+
+</resources>
